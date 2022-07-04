@@ -1,6 +1,6 @@
 - 👋 Ola,eu sou Rafael Pimentel
 - 👀 Estou interessado em conhecimentos na area da Tecnologia 
-- 🌱 atualmente estou aprendendo Java,C++,phyton 
+- 🌱 atualmente estou aprendendo Java,PHP,
 - 💞️ Estou pensando em colaborar com meus conhecimentos
 - 📫 Como chegar ate mim, github.com/nikobellick,rafaelcpti@hotmail.com
 
